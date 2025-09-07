@@ -1,0 +1,30 @@
+h2{
+font-size: 30px;
+color: brown;
+}
+body{
+    background-color: #f5e6dd;
+}
+img {
+    border: 3px solid black;
+    border-color: rgb(255, 187, 187);
+    margin: 10px 30px 20px 30px;
+}
+header {
+    font-size: large;
+}
+.bigPhoto {
+    height: 30%;
+    width: 30%;
+}
+.smallPhoto {
+    border-radius: 200px;
+    height: 10%;
+    width: 10%;
+}
+button{
+    font-size: 50px;
+    padding: 30px;
+    margin: 20px 50px 20 px 50px;
+    transition: .2s linear;
+}
